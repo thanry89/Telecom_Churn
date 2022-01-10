@@ -31,4 +31,4 @@ La visualización contenida en el portal de Tableau se compone de tres elementos
 
 - En primer lugar se presenta un mapa interactivo con los diferentes parámetros de los suscriptores para que el usuario pueda evaluar que parámetros tienen mayor influencia en la deserción de suscriptores.
 
-![Ubicación Suscriptores vs Permanencia](/image/Ubicación_Suscriptores.png)
+![Ubicación Suscriptores vs Permanencia](image/Ubicación_Suscriptores.png)
