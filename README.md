@@ -26,3 +26,9 @@ El dataset utilizado para la visualización ha sido modificado del original para
 - CLTV (Customer Lifetime Value) (Entero): indicador de importancia del suscriptor.
 - Churn Reason (Categórico): Identificador que presenta la causa de salida del suscriptor.
 - Churn Category (Categórico): Atributo creado a partir de Churn Reason, para agrupar las principales causas de deserción de los suscriptores.
+
+La visualización contenida en el portal de Tableau se compone de tres elementos:
+
+- En primer lugar se presenta un mapa interactivo con los diferentes parámetros de los suscriptores para que el usuario pueda evaluar que parámetros tienen mayor influencia en la deserción de suscriptores.
+
+![Ubicación Suscriptores vs Permanencia](image/Ubicación_Suscriptores.png)
