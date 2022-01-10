@@ -31,4 +31,16 @@ La visualización contenida en el portal de Tableau se compone de tres elementos
 
 - En primer lugar se presenta un mapa interactivo con los diferentes parámetros de los suscriptores para que el usuario pueda evaluar que parámetros tienen mayor influencia en la deserción de suscriptores.
 
-![Ubicación Suscriptores vs Permanencia](image/Ubicación_Suscriptores.png)
+![Ubicación Suscriptores vs Permanencia](image/Ubicacion_Suscriptores.png)
+
+- A continuación se muestra una comparativa de el valor promedio de pago por mes  de los suscriptores desertados vs los que permanecen.
+
+![Pago Promedio](image/Pago_Promedio.png)
+
+- Para enteder las causas de deserción, se presenta un treemap junto con un diagrama de pastel con las principales causas de deserción y su peso global.
+
+![Pago Promedio](image/Causas_Perdida.png)
+
+- Finalmente, un objetivo de la visualización es entender si el modelo generado por IBM SPSM es adecuado para el mercado, se evalua la calificación "Churn Score" y "CLTV" con respecto a los suscriptores que desertarón y los que no.
+
+![Pago Promedio](image/Tendencia_Clasificacion.png)
